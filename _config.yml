@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Nicolas Rehbach"
   pronouns         : # example: "she/her"
-  bio              : "PhD Student on Multimodal AI in Mmedical Imaging"
+  bio              : "PhD Student on Multimodal AI in Medical Imaging"
   location         : "Cologne, Germany"
   employer         : "University Hospital Cologne"
   uri              : # URL
@@ -218,19 +218,19 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
