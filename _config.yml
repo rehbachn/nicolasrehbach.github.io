@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Nicolas Rehbach"
 description              : &description "Personal website of Nicolas Rehbach, PhD Student in Multimodal AI."
 url                      : "https://rehbachn.github.io"
-baseurl                  : ""
+baseurl                  : "/nicolasrehbach.github.io"
 repository               : "rehbachn/nicolasrehbach.github.io"
 
 # Site Author - Controls author content in the sidebar.
